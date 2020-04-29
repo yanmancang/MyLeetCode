@@ -1,4 +1,4 @@
-package com.mryan.leetcode.title_707;
+package com.mryan.leetcode.title_0707;
 
 import java.util.ArrayList;
 import java.util.List;
