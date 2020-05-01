@@ -1,4 +1,4 @@
-package com.mryan.leetcode.title1333;
+package com.mryan.leetcode.title_1333;
 
 import java.util.ArrayList;
 import java.util.Comparator;
